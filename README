@@ -1,8 +1,13 @@
-All code is in C++. I implemented every command as per the spec. Teleport is now on 'g'. 
+"All code is in C++. I implemented every command as per the spec. Teleport is now on 'g'. 
 Damage and speed stats are updated correctly by items. SpongeBob dying is the win condition.
 How I handled some of the failures of commands:
 
 't'ake off an item doesn't work if your carry slots are filled.
 'd'rop item doesn't work if there is an item underneath the pc.
 If one tries to select a slot, be it equipment or in the inventory and there is no item there,
-an error message appears for a brief moment at the top of the screen. 
+an error message appears for a brief moment at the top of the screen. "
+
+
+That is the original README for 1.09
+
+There are 8 other README's that help explain what can be done in the game. I will upload them at some point.
